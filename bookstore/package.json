@@ -1,0 +1,17 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "The book store website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Floreza Sillar Jensen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.1",
+    "mongodb": "^2.0.48"
+  }
+}
